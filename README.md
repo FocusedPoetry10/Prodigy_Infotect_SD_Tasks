@@ -4,11 +4,12 @@ Welcome to my GitHub repository, where I've documented the tasks I worked on dur
 
 ## Table of Contents
 
-1. [Task 1: Build a Temperature Conversion Program]
-2. [Task 2: Create a Guessing Game]
-3. [Task 3: Implement a Simple Contact Management System]
-4. [Task 4: Implement a Sudoku Solver]
-5. [Task 5: Web Scraping]
+1. Task 1: Build a Temperature Conversion Program
+2. Task 2: Create a Guessing Game
+3. Task 3: Implement a Simple Contact Management System
+4. Task 4: Implement a Sudoku Solver
+5. Task 5: Web Scraping
+
 ## Task 1: Build a Temperature Conversion Program
 
 For my first task, I created a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. The program asks the user to input a temperature value and its unit of measurement. Then, it converts the temperature to the other two units and displays the results. For instance, if you input 25 degrees Celsius, the program will convert it to Fahrenheit and Kelvin and show you the converted values.
