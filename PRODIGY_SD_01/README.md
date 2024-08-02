@@ -1,8 +1,8 @@
-# Temperature Convertion Program
+# Temperature Conversion Program
 
 ## Overview
 
-The Temperature Convertion application is a user-friendly tool designed to convert temperatures between Celsius, Fahrenheit, and Kelvin. This application is built using Python's Tkinter library, providing a simple and visually appealing interface for performing temperature conversions.
+The Temperature Conversion application is a user-friendly tool designed to convert temperatures between Celsius, Fahrenheit, and Kelvin. This application is built using Python's Tkinter library, providing a simple and visually appealing interface for performing temperature conversions.
 
 ## Features
 
