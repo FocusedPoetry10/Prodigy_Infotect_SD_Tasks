@@ -1,4 +1,4 @@
-# Temperature Converter GUI
+# Temperature Convertion Program
 
 ## Overview
 
