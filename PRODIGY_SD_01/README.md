@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Temperature Converter GUI application is a user-friendly tool designed to convert temperatures between Celsius, Fahrenheit, and Kelvin. This application is built using Python's Tkinter library, providing a simple and visually appealing interface for performing temperature conversions.
+The Temperature Convertion application is a user-friendly tool designed to convert temperatures between Celsius, Fahrenheit, and Kelvin. This application is built using Python's Tkinter library, providing a simple and visually appealing interface for performing temperature conversions.
 
 ## Features
 
