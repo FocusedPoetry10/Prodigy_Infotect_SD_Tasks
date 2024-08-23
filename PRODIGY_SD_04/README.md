@@ -31,12 +31,12 @@ Upon launching the application, a 9x9 grid is created using Tkinter’s `Entry` 
 ### Sudoku Solving Algorithm
 The Sudoku solving algorithm is implemented using a backtracking approach. The algorithm systematically tries every possible number in empty cells, backtracking whenever it encounters a violation of Sudoku rules, until it either finds a solution or determines that the puzzle is unsolvable.
 
-### User Interaction
+## User Interaction
 
-#### Solve Button
+### Solve Button
 When the user has finished entering a puzzle and clicks the "Solve" button, the application reads the current grid state and attempts to solve it. If successful, the solution is displayed on the grid; otherwise, an error message is shown.
 
-#### Clear Button
+### Clear Button
 This button resets the grid, allowing the user to clear the current puzzle and start fresh.
 
 ## Technical Details
